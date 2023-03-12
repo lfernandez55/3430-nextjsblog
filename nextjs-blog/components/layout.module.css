@@ -10,6 +10,10 @@
     margin: 3rem auto 6rem;
   }
   
+  .p{
+    font-size: 2x;
+  }
+
   .header {
     display: flex;
     flex-direction: column;
