@@ -8,7 +8,7 @@ body {
 }
 
 a {
-  color: inherit;
+  color: blue;
   text-decoration: none;
 }
 
@@ -26,6 +26,7 @@ h2,
 p,
 ul {
   margin: 0;
+  margin-top: 10px;
 }
 
 ul {
